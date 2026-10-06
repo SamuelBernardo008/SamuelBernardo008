@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://github.com/SamuelBernardo008?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/SamuelBernardo008?style=for-the-badge&color=726ECD&labelColor=726ECD&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/SamuelBernardo008?style=for-the-badge&color=726ECD&labelColor=726ECD&logo=github&logoColor=white&label=FOLLOWERS&cacheSeconds=60" alt="GitHub Followers">
   </a>
 
   <a href="https://www.linkedin.com/in/samuel-bernardo-rodrigues-48a83a43a/">
